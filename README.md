@@ -6,9 +6,4 @@ Collaborated with Airbus to develop a machine learning pipeline predicting fuel 
 	•	Delivered an interactive post-flight dashboard (built with Python + dashboarding tools) to visualize detections and support phased deployment—projected savings of >$30K/month per aircraft.
 	•	Technologies used: Python, Autoencoders, XGBoost, Isolation Forest, time-series modeling, and operational dashboards.
 
-⸻
 
-✈️ Why this mattered
-
-Anomaly detection in flight-critical systems like aircraft fuel monitoring is a high-impact, safety-critical use of ML—unsupervised models like autoencoders are essential given the rarity of true fault data  ￼ ￼.
-Your system mirrors real-world aviation initiatives (e.g., NASA’s flight data anomaly detection and Airbus telemetry solutions), showing your work operates at the cutting edge .
